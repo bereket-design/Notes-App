@@ -1,0 +1,1 @@
+The Notes App allows users to create, edit, and delete notes easily. Built with HTML, CSS, and JavaScript, this app leverages local storage to save notes, ensuring that user data persists even after refreshing the page.
